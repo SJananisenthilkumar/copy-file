@@ -32,6 +32,7 @@ print("Copied Successfully")
 ![image](https://github.com/SJananisenthilkumar/copy-file/assets/144871139/1471f1cd-6881-4403-b578-13c282db98f3)
 ![photo 1](https://github.com/SJananisenthilkumar/copy-file/assets/144871139/4a39a98e-cc32-4332-9ef6-c87788291b6b)
 ![photo 2](https://github.com/SJananisenthilkumar/copy-file/assets/144871139/f67d4c63-ee19-4131-86b9-f8a23a5a9033)
-
+<br>
+<br>
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
